@@ -15,7 +15,7 @@ keywords = ["derive", "getter", "setter", "accessor", "macro"]
 proc-macro = true
 
 [dependencies]
-darling = "0.20.3"
+darling = "=0.20.10"
 proc-macro-error = "1.0.4"
 proc-macro2 = "1.0.70"
 quote = "1.0.33"
