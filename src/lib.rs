@@ -275,7 +275,7 @@ use darling::{
 };
 use proc_macro::TokenStream;
 use proc_macro2::{Span, TokenStream as TokenStream2};
-use proc_macro_error::abort;
+use proc_macro_error2::abort;
 use quote::{format_ident, quote, ToTokens};
 use syn::{
     parse_macro_input, Attribute, DeriveInput, Expr, Generics, Ident, Index, Member, Type,
