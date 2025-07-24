@@ -5,9 +5,9 @@
 description = "Generate getters, mutable getters, setters, and copy accessors for structs and enums"
 edition = "2021"
 license = "Apache-2.0"
-name = "getters2"
-repository = "https://github.com/novafacing/getters2"
-version = "0.1.4"
+name = "getters3"
+repository = "https://github.com/Wenzel/getters3"
+version = "0.1.0"
 readme = "README.md"
 keywords = ["derive", "getter", "setter", "accessor", "macro"]
 

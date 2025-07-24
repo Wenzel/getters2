@@ -1,6 +1,8 @@
-# Getters2
+# Getters3
 
-Getters2 is the *real* best "auto-getters"/"auto-setters" crate for Rust.
+Note: **fork** of Getters2 (unmaintained)
+
+Getters3 is the *real* best "auto-getters"/"auto-setters" crate for Rust.
 
 * Selectable immutable/mutable/clone/deref getters
 * Support for named, tuple, and newtype structs
