@@ -7,7 +7,7 @@ edition = "2021"
 license = "Apache-2.0"
 name = "getters3"
 repository = "https://github.com/Wenzel/getters3"
-version = "0.1.0"
+version = "0.1.1"
 readme = "README.md"
 keywords = ["derive", "getter", "setter", "accessor", "macro"]
 
